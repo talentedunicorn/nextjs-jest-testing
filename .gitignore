@@ -4,3 +4,6 @@ node_modules
 # Next output
 out
 .next
+
+# Coverage files
+coverage
